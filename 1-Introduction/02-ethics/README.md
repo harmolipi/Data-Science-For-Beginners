@@ -15,7 +15,7 @@ In this lesson, we'll explore the fascinating area of data ethics - from core co
 
 ## Pre-Lecture Quiz 🎯
 
-[Pre-lecture quiz]() 
+[Pre-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/2) 
 
 ## Sketchnote 🖼
 
