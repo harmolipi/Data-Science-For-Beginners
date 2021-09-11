@@ -1,5 +1,9 @@
 # Working with Data: Non-Relational Data
 
+## Pre-Lecture Quiz
+
+[Pre-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/10)
+
 Data is not limited to relational databases. This lesson focuses on non-relational data and will cover the basic of spreadsheets and NoSQL.
 
 ## Spreadsheets
@@ -134,7 +138,7 @@ Try to run a few select queries to find the documents that have Microsoft in the
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz]()
+[Post-lecture quiz](https://red-water-0103e7a0f.azurestaticapps.net/quiz/11)
 
 ## Review & Self Study
 
