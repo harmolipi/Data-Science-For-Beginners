@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | How can we use data to improve educational outcomes for children in schools? | Test scores, outcomes after graduating high school, styles of teaching | Database | Most effective ways of teaching that lead to better performance and outcomes |
+| Nonprofit | How can we ensure nonprofits are working honestly and efficiently | Funds raised, expenses, similar expenses at other nonprofits | Database or spreadsheets | Ensure that funds raised by nonprofits are used well and not wasted, and help bring them closer to their stated goals |
+| Productivity | How can I make sure I'm using my time well and being productive at work? | Time spent on each project, time spent doing non-work-related activities, work output | Spreadsheets | See where time is being wasted or things aren't being done efficiently, and make changes to improve work output |
 
 ## Rubric
 
